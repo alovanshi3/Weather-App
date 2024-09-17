@@ -11,7 +11,7 @@ const notFound=document.querySelector(".not-found");
 
 //initially variables needed
 let currentTab=userTab;
-const API_KEY= "8abbabf8016c636e786d0910631ebe79";
+const API_KEY= "";
 currentTab.classList.add("current-tab");
 getfromSessionStorage();
 
